@@ -4,7 +4,8 @@
   "description": "Basic nodejs concept with pratical examples",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/bharatdahiya/core-nodejs/issues"
   },
-  "homepage": "https://github.com/bharatdahiya/core-nodejs#readme"
+  "homepage": "https://github.com/bharatdahiya/core-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
