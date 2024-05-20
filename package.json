@@ -1,0 +1,25 @@
+{
+  "name": "core-nodejs",
+  "version": "1.0.0",
+  "description": "Basic nodejs concept with pratical examples",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharatdahiya/core-nodejs.git"
+  },
+  "keywords": [
+    "basic",
+    "core",
+    "node",
+    "js"
+  ],
+  "author": "Bharat Dahiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharatdahiya/core-nodejs/issues"
+  },
+  "homepage": "https://github.com/bharatdahiya/core-nodejs#readme"
+}
